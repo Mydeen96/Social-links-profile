@@ -14,7 +14,7 @@
     text-align: center;
     width: 400px;
     border-radius: 30px;
-    height: 95vh;
+    max-height: 95vh;
 }
 #border h3,p,a{
     color: white;
